@@ -1,5 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-
+## Name: Vignesh raaj
+## Reg.no:212223230239
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
